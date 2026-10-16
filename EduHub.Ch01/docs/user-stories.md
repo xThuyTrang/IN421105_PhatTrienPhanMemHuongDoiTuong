@@ -11,7 +11,7 @@ Là sinh viên, tôi muốn tham gia một Club, để có thể học tập t�
 ### US-02 : Đăng ký một sự kiện.
 Là sinh viên, tôi muốn đăng ký một sự kiện, để giữ chỗ tham dự.
 - Given còn chỗ, When đăng ký, Then tạo `Registration` ở trạng thái Pending.
-- Given hết chỗ (đủ `Capacity`), When đăng ký, Then báo hết chỗ.
+- Given hết chỗ (đủ `Capacity`), When đăng ký, Then báo đăng ký không  thành công.
 
 ### US-03 : Check-in tại sự kiện.
 Là sinh viên, tôi muốn check-in khi đến sự kiện, để được ghi nhận có mặt.

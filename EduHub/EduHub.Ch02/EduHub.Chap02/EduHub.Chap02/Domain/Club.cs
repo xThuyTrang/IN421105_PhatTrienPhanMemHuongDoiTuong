@@ -3,7 +3,7 @@ namespace EduHub.Ch02.Domain;
 /// <summary>Câu lạc bộ — chứa quy tắc nghiệp vụ của chính nó, không chứa logic hạ tầng.</summary>
 public class Club
 {
-    public const int MaxMembers = 30;
+    public const int MaxMembers = 50;
     public const int MaxNameLength = 100;
 
     public Guid Id { get; set; }
